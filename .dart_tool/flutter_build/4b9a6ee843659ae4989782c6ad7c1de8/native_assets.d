@@ -1,0 +1,1 @@
+ /Users/adaxiomtech/Desktop/projects/cursor/managment/.dart_tool/flutter_build/4b9a6ee843659ae4989782c6ad7c1de8/native_assets.yaml: 
